@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\CRUDCORE",
-    "\\CRUDCORE\\Data"
+    "\\CRUDCORE\\Controllers",
+    "\\CRUDCORE\\Data",
+    "\\CRUDCORE\\Views",
+    "\\CRUDCORE\\Views\\Home"
   ],
-  "SelectedNode": "\\CRUDCORE\\Data\\ContactData.cs",
+  "SelectedNode": "\\CRUDCORE.sln",
   "PreviewInSolutionExplorer": false
 }

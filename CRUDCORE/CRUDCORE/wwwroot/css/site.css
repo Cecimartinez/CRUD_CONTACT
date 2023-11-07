@@ -1,3 +1,5 @@
+
+
 html {
   font-size: 14px;
 }
@@ -17,6 +19,30 @@ html {
   min-height: 100%;
 }
 
+h1{
+    font-size: 1.5rem;
+}
+
 body {
   margin-bottom: 60px;
+}
+
+.card{
+    padding: 40px 40px;
+}
+
+.btn-primary, label,a{
+    margin-top:20px;
+
+}
+
+input{
+    margin-top:5px;
+}
+
+.card-body{
+    padding:0px;
+    margin:0px;
+    font-weight: 500
+
 }
